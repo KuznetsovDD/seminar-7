@@ -13,7 +13,7 @@ System.Console.WriteLine("Введите столбец: ");
 int numb2 = Convert.ToInt32(Console.ReadLine());
 
 
-int[,] array = new int[4,4];
+int[,] array = new int[10,11];
 
 void FillArry(int[,] arry)
 {
