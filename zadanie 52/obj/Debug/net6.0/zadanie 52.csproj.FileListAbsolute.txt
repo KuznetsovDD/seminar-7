@@ -1,0 +1,15 @@
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\bin\Debug\net6.0\zadanie 52.exe
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\bin\Debug\net6.0\zadanie 52.deps.json
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\bin\Debug\net6.0\zadanie 52.runtimeconfig.json
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\bin\Debug\net6.0\zadanie 52.dll
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\bin\Debug\net6.0\zadanie 52.pdb
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.csproj.AssemblyReference.cache
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.AssemblyInfoInputs.cache
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.AssemblyInfo.cs
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.csproj.CoreCompileInputs.cache
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.dll
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\refint\zadanie 52.dll
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.pdb
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\zadanie 52.genruntimeconfig.cache
+C:\Users\Atlant\Desktop\ДЗ к семинару\seminar 7\zadanie 52\obj\Debug\net6.0\ref\zadanie 52.dll
