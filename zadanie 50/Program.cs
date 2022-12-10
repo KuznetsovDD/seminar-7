@@ -51,10 +51,12 @@ void PrintMean(int[,] arr)
                 if (arr[i, j] == arr[num1, num2])
                 {
                     mean = array[i, j];
-                    System.Console.WriteLine(mean);
+                    
                 }
             }
         }
+        System.Console.WriteLine(mean);
+
     }
     catch
     {
