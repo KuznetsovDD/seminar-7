@@ -7,22 +7,22 @@
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 
-System.Console.WriteLine("Введите строку: ");
+System.Console.Write("Введите строку: ");
 int numb1 = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine("Введите столбец: ");
+System.Console.Write("Введите столбец: ");
 int numb2 = Convert.ToInt32(Console.ReadLine());
 
 
-int[,] array = new int[10,11];
+int[,] array = new int[10, 11];
 
 void FillArry(int[,] arry)
 {
-    for(int i=0; i<arry.GetLength(0); i++)
+    for (int i = 0; i < arry.GetLength(0); i++)
     {
-       for(int j=0; j<arry.GetLength(1); j++) 
-       {
-        arry[i,j] = new Random().Next(-99,100);
-       }
+        for (int j = 0; j < arry.GetLength(1); j++)
+        {
+            arry[i, j] = new Random().Next(-99, 100);
+        }
     }
 }
 void PrintArray(int[,] matr)
@@ -37,29 +37,29 @@ void PrintArray(int[,] matr)
     }
 }
 
-void PrintMean(int [,] arr)
+void PrintMean(int[,] arr)
 {
     var mean = 0;
-    int num1 = numb1-1;
-    int num2 = numb2-1;
+    int num1 = numb1 - 1;
+    int num2 = numb2 - 1;
     try
     {
-    for (int i = 0; i < arr.GetLength(0); i++)
-    {
-        for (int j = 0; j < arr.GetLength(1); j++)
+        for (int i = 0; i < arr.GetLength(0); i++)
         {
-            if(arr[i,j] == arr[num1,num2])
+            for (int j = 0; j < arr.GetLength(1); j++)
             {
-                mean = array[i,j];
-                System.Console.WriteLine(mean);
-            }            
-        }      
-    }   
+                if (arr[i, j] == arr[num1, num2])
+                {
+                    mean = array[i, j];
+                    System.Console.WriteLine(mean);
+                }
+            }
+        }
     }
     catch
     {
-        System.Console.WriteLine("Нет значения"); 
-    } 
+        System.Console.WriteLine("Нет значения");
+    }
 }
 
 System.Console.WriteLine();
